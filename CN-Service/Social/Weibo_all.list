@@ -1,0 +1,27 @@
+# > Weibo from https://github.com/sve1r/Rules-For-Quantumult-X/blob/develop/Rules/Services/SNS/Weibo.list
+weibo
+weibo.com
+weibo.cn
+
+# > Weibo Api
+api.weibo.cn
+api.weibo.com
+dns.weibo.cn
+
+# > Weibo CDN
+weibocdn.com
+
+# > Weibo Client & SDK
+wbapp.mobile.sina.cn
+sdkapp.mobile.sina.cn
+
+# > Weibo Img
+sinajs.cn
+vip.storage.weibo.com
+simg.s.weibo.com
+sinaimg.cn
+miaozhen.com
+data.kuiniuca.com
+
+# > Weibo Live
+live.weibo.com

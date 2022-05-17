@@ -1,0 +1,10 @@
+# > Weibo from https://github.com/sve1r/Rules-For-Quantumult-X/blob/develop/Rules/Services/SNS/Weibo.list
+weibo.com
+weibo.cn
+
+# > Weibo Api
+api.weibo.cn
+api.weibo.com
+
+# > Weibo Client & SDK
+# see https://github.com/lcandy2/Rule-Snippet/tree/main/CN-Service/Api/Weibo.list

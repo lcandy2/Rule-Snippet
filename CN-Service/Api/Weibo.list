@@ -1,0 +1,3 @@
+# > Weibo Client & SDK from https://github.com/sve1r/Rules-For-Quantumult-X/blob/develop/Rules/Services/SNS/Weibo.list
+wbapp.mobile.sina.cn,Reject
+sdkapp.mobile.sina.cn,Reject
