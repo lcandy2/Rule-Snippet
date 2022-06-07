@@ -1,27 +1,27 @@
 # > Weibo from https://github.com/sve1r/Rules-For-Quantumult-X/blob/develop/Rules/Services/SNS/Weibo.list
-weibo
-weibo.com
-weibo.cn
+DOMAIN-SUFFIX,weibo
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibo.cn
 
 # > Weibo Api
-api.weibo.cn
-api.weibo.com
-dns.weibo.cn
+DOMAIN-SUFFIX,api.weibo.cn
+DOMAIN-SUFFIX,api.weibo.com
+DOMAIN-SUFFIX,dns.weibo.cn
 
 # > Weibo CDN
-weibocdn.com
+DOMAIN-SUFFIX,weibocdn.com
 
 # > Weibo Client & SDK
-wbapp.mobile.sina.cn
-sdkapp.mobile.sina.cn
+DOMAIN-SUFFIX,wbapp.mobile.sina.cn
+DOMAIN-SUFFIX,sdkapp.mobile.sina.cn
 
 # > Weibo Img
-sinajs.cn
-vip.storage.weibo.com
-simg.s.weibo.com
-sinaimg.cn
-miaozhen.com
-data.kuiniuca.com
+DOMAIN-SUFFIX,sinajs.cn
+DOMAIN-SUFFIX,vip.storage.weibo.com
+DOMAIN-SUFFIX,simg.s.weibo.com
+DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,data.kuiniuca.com
 
 # > Weibo Live
-live.weibo.com
+DOMAIN-SUFFIX,live.weibo.com

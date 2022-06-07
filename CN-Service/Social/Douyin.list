@@ -1,20 +1,20 @@
 # 抖音Douyin
-amemv.com
-douyin.com
-zijieapi.com
-pstatp.com
-awemeughun.com
-snssdk.com
-zjurl.cn
-bdurl.net
-bytedance.com
-feelgood.cn
-volcimagex.net
-iesdouyin.com
-feiliao.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,awemeughun.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,zjurl.cn
+DOMAIN-SUFFIX,bdurl.net
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,feelgood.cn
+DOMAIN-SUFFIX,volcimagex.net
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,feiliao.com
 
 # shopping
-ecombdapi.com
+DOMAIN-SUFFIX,ecombdapi.com
 
 # ads
-oceanengine.com
+DOMAIN-SUFFIX,oceanengine.com
